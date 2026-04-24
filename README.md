@@ -1,8 +1,6 @@
 # ELE432_HW2_Controller
 Multicycle RISC-V Controller for Homework 2
 
-# Multicycle RISC-V Processor Controller
-
 ### Overview
 This repository contains a hierarchical **SystemVerilog** implementation of a multicycle controller for a **RISC-V processor**. The project focuses on the design and verification of the control unit, which manages the datapath through various execution stages using a **Finite State Machine (FSM)**.
 
